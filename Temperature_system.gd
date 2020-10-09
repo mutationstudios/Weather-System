@@ -5,8 +5,6 @@ var low = 0  #low temp
 var high = 0 #high temp
 var current_temperature = 0
 
-# have a lerp for the temperature, as well as one for the high and low so it transistions smoothly between seasons
-
 var time = 0
 var seconds = 0 # how many seconds has passed
 var minutes = 0 # how many minutes has passed
